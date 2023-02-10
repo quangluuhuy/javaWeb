@@ -11,8 +11,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 14.7px;
+    
+    
 }
+
 
 body {
     height: 100vh;
@@ -135,12 +137,13 @@ body {
     font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
     width: 60%;
     margin-left: 20px;
+    font-size: 14.7px
 }
 
 
 .submit {
-    width: calc(80% + 20px);
-    margin-top: 20px;
+    width: calc(80% + 15px);
+    margin-top: 15px;
     height: 40px;
     text-align: center;
 }
@@ -148,10 +151,10 @@ body {
 .signup {
     font-family: sans-serif;
     height: 110%;
-    width: 200px;
+    width: 300px;
     background-color: #008000;
     border: none;
-    border-radius: 50px;
+    border-radius: 4px;
     color: #fff;
     font-size: 20px;
 }
@@ -167,3 +170,4 @@ p {
     margin-top: 5px;
 
 }
+
