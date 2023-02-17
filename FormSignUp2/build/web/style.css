@@ -149,7 +149,7 @@ body {
 }
 
 .signup {
-    font-family: sans-serif;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
     height: 110%;
     width: 300px;
     background-color: #008000;
@@ -166,7 +166,7 @@ mark {
 }
 
 p {
-    font-family: inherit;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
     margin-top: 5px;
 
 }
